@@ -4,7 +4,6 @@ image: https://source.unsplash.com/wZVMwWdAbbg/1000x750
 categories: [off-page]
 tag: [spotlight]
 author: danipolo
-toc: true
 ---
 
 Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. Lorem impsum dolor. Lorem ipsum dolor. 

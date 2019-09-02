@@ -70,7 +70,6 @@ plugins:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-sitemap
-  - jekyll-toc
 
 exclude:
   - Gemfile

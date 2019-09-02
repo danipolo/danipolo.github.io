@@ -23,7 +23,8 @@ layout: default
     {% endunless %}
 
     <div class="content-primary">
-        {{ content | toc }}
+        {% include toc.html html=content %}
+        {{ content }}
     </div>
 
   </article>

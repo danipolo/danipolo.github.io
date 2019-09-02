@@ -2,7 +2,6 @@
 layout: page
 title: Terms and Conditions
 permalink: /terms-conditions/
-toc: true
 ---
 
 <h3>1. Terms</h3>
