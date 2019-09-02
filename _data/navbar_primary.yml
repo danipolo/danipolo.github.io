@@ -5,17 +5,17 @@ center:
   - title: News
     url: /category/news/
 
-  - title: Content Strategy
-    url: /category/content-strategy/
+  - title: On Page
+    url: /category/on-page/
+
+  - title: Off Page
+    url: /category/off-page/
 
   - title: Data Science
     url: /category/data-science/
 
   - title: Automation
     url: /category/data-science/
-
-  - title: Local SEO
-    url: /category/local/
 
   - title: About Us
     dropdown:
