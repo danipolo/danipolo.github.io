@@ -11,7 +11,7 @@ layout: full
 {% include section-spotlight.html title="Spotlight" %}
 
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Mailchimp and stay up to date with what is happening in the city." button_text="Support Us" %}
+{% include section-mailchimp.html title="Newsletter Signup" text="Get the weekly newsletter SEO's rely on... The latest tecniques and advanced SEO strategies" button_text="Subscribe" %}
 
 
 {% include section-latest.html title="Latest Articles" limit="4" more="More Articles" %}
