@@ -7,7 +7,7 @@
 # Site settings
 title:              Dani Polo
 description:        Technical SEO at Scale and advanced optimization strategies.
-url:                https://xscru.com # Site base hostname & protocol, e.g. http://example.com
+url:                https://ecstatic-galileo-1026b4.netlify.com/ # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:
   dark:             logo-dark.png # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
