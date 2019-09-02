@@ -18,6 +18,7 @@ uploads:            /uploads/ # Path to post content assets directory i.e post i
 paginate:           7 # Number of posts displayed on blog page
 paginate_path:      "/blog/:num/" # Blog path
 google_tag_manager: GTM-PXF3KSD  # Google Tag Manager Container
+netlifycms:         true
 disqus:
   shortname:        xscru
 
@@ -75,11 +76,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - netlify.toml
   - package.json
   - CHANGELOG
   - LICENSE
   - README
   - /docs
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 sass:
   style:            compressed
