@@ -11,7 +11,7 @@ layout: full
 {% include section-spotlight.html title="Spotlight" %}
 
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Get the weekly newsletter SEO's rely on... The latest tecniques and advanced SEO strategies" button_text="Subscribe" %}
+{% include section-mailchimp.html title="Newsletter Signup" text="Get the weekly newsletter SEO's rely on... The latest tecniques and advanced SEO strategies directly in your inbox" button_text="Subscribe" %}
 
 
 {% include section-latest.html title="Latest Articles" limit="4" more="More Articles" %}
