@@ -1,4 +1,4 @@
 ---
-tag: automation
+tag: SEO Automation
 permalink: "/category/automation/"
 ---

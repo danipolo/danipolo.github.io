@@ -1,4 +1,4 @@
 ---
-tag: local
+tag: Google Local SEO
 permalink: "/category/local/"
 ---
