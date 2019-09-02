@@ -20,17 +20,17 @@ center:
   - title: Sport
     url: /category/sport/
 
-  - title: Pages
+  - title: About Us
     dropdown:
-      - title: Blog
-        url: /blog/
+      - title: Our Company
+        url: /company/
+      - title: The Team
+        url: /meet-the-team/
       - title: Contact
         url: /contact/
-      - title: Sidebar Left
-        url: /sidebar-left/
-      - title: Sidebar Right
-        url: /sidebar-right/
-      - title: 404
-        url: /404/
+      - title: Privacy Policy
+        url: /privacy-policy/
+      - title: Terms and Conditions
+        url: /terms-conditions/
 
 right:
