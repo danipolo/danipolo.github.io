@@ -2,6 +2,7 @@
 layout: page
 title: Our Company
 permalink: /company/
+toc: true
 ---
 
 <h2>Letter from the Editor</h2>

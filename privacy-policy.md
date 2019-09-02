@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy-policy/
+toc: true
 ---
 
 <p>Your privacy is important to us. It is xscrü oü's policy to respect your privacy regarding any information we may collect from you across our website, <a href="https://xscru.com">https://xscru.com</a>, and other sites we own and operate.</p>
