@@ -8,6 +8,9 @@
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   <link rel="shortcut icon" type="image/png" href="{{ site.uploads | relative_url }}favicon.png" >
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  {% if page.path contains '_posts' %}
+    <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url | append: '.html' }}">
+  {% endif %}
   <script src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
   {% if site.google_tag_manager %}
     {% include google-tag-manager.html %}

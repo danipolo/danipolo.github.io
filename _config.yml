@@ -18,7 +18,7 @@ uploads:            /uploads/ # Path to post content assets directory i.e post i
 paginate:           7 # Number of posts displayed on blog page
 paginate_path:      "/blog/:num/" # Blog path
 google_tag_manager: GTM-PXF3KSD  # Google Tag Manager Container
-netlifycms:         true
+ampdir:             amp
 disqus:
   shortname:        xscru
 
@@ -71,6 +71,7 @@ plugins:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-sitemap
+  - amp-jekyll
 
 exclude:
   - Gemfile
