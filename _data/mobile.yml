@@ -1,24 +1,25 @@
 # Mobile menu navigation links
-- title: Home
-  url: /
 
-- title: Blog
-  url: /blog/
+- title: News
+  url: /category/news/
 
-- title: Business
-  url: /category/business/
+- title: On Page
+  url: /category/on-page/
 
-- title: Culture
-  url: /category/culture/
+- title: Off Page
+  url: /category/off-page/
 
-- title: Travel
-  url: /category/travel/
+- title: Data Science
+  url: /category/data-science/
 
-- title: Sport
-  url: /category/sport/
+- title: Automation
+  url: /category/data-science/
+
+- title: Our Company
+  url: /company/
+
+- title: The Team
+  url: /meet-the-team/
 
 - title: Contact
   url: /contact/
-  
-- title: 404
-  url: /404/
