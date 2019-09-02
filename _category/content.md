@@ -1,4 +1,4 @@
 ---
 tag: content
-permalink: "/category/content/"
+permalink: "/category/content-strategy/"
 ---
