@@ -8,17 +8,17 @@ center:
   - title: All Posts
     url: /blog/
 
-  - title: Business
-    url: /category/business/
+  - title: News
+    url: /category/news/
 
-  - title: Culture
-    url: /category/culture/
+  - title: Content
+    url: /category/content/
 
-  - title: Travel
-    url: /category/travel/
+  - title: Data Science
+    url: /category/data-science/
 
-  - title: Sport
-    url: /category/sport/
+  - title: Local
+    url: /category/local/
 
   - title: About Us
     dropdown:
